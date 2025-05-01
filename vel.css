@@ -1,0 +1,14 @@
+body{
+    background: rgb(93, 91, 91);
+    text-align: center;
+} 
+div#main{
+    background: gray;
+    color: black;
+    text-align: center;
+    margin-right:35%;
+    margin-left: 35%;
+    height: 200px;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 10px;
+}  
